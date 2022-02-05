@@ -2090,6 +2090,7 @@ input, select, textarea {
 		border: 0;
 		display: inline-block;
 		position: relative;
+		pointer-events: none;
 	}
 
 		.image img {
