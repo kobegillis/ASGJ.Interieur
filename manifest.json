@@ -1,0 +1,21 @@
+{
+    "background_color": "none",
+    "description": "ASGJ Interieur opgericht door Johan Gillis, ASGJ Interieur is een vertrouwd adres voor verschillende houten interieur producten. Van dressings tot laminaat. Met 20 jaar ervaring zijn al onze producten kwalitatief en professioneel.",
+    "dir": "ltr",
+    "display": "standalone",
+    "name": "ASGJ Interieur",
+    "orientation": "any",
+    "scope": "/",
+    "short_name": "ASGJ",
+    "start_url": "https://asgj.be",
+    "theme_color": "none",
+    "categories": [],
+    "screenshots": [],
+    "icons": [
+      {
+        "src": "/favicon.ico",
+        "type": "image/x-icon"
+      }
+    ],
+    "shortcuts": []
+  }
